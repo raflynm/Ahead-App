@@ -1,6 +1,7 @@
 # plannertekber
 
 A new Flutter project.
+Run "flutter pub get" to fulfill all missin dependencies
 
 ## Getting Started
 
